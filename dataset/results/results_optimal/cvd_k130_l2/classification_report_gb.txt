@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+           0       0.58      0.81      0.67      6406
+           1       0.65      0.37      0.47      6041
+
+    accuracy                           0.59     12447
+   macro avg       0.61      0.59      0.57     12447
+weighted avg       0.61      0.59      0.57     12447
+
+Accuracy: 0.5949224712782196
+ROC AUC: 0.6205667118172559
+Laufzeit: 1.85 Sekunden
